@@ -5,7 +5,9 @@
   * https://github.com/ellen25719/IMLP343/blob/main/Unit01/Unit01_Crash%20Course%20on%20Python.ipynb
 * Unit 2 :
   * 01 - https://github.com/ellen25719/IMLP343/blob/main/Unit02/01_NumPy.ipynb
-  * 02 - 
+  * 02 - https://github.com/ellen25719/IMLP343/blob/main/Unit02/02_Pandas.ipynb
+  * 03 - 
+  * 04 - 
 *
 *
 *
