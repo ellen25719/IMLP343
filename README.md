@@ -6,7 +6,7 @@
 * Unit 2 :
   * 01 - https://github.com/ellen25719/IMLP343/blob/main/Unit02/01_NumPy.ipynb
   * 02 - https://github.com/ellen25719/IMLP343/blob/main/Unit02/02_Pandas.ipynb
-  * 03 - 
+  * 03 - https://github.com/ellen25719/IMLP343/blob/main/Unit02/03_Matplotlib.ipynb
   * 04 - 
 *
 *
