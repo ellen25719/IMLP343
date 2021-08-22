@@ -9,9 +9,9 @@
   * 03 - https://github.com/ellen25719/IMLP343/blob/main/Unit02/03_Matplotlib.ipynb
   * 04 - https://github.com/ellen25719/IMLP343/blob/main/Unit02/04_Seaborn.ipynb
 * Unit 3:
-  * 01 -
-  * 02 -
-  * 03 -
+  * 04 - 
+  * 05 - 
+  * 06 - 
 *
 *
 *
