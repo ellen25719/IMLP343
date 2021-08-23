@@ -11,9 +11,14 @@
 * Unit 3:
   * 04 - https://github.com/ellen25719/IMLP343/blob/main/Unit03/4_Categorical_features.ipynb
   * 05 - https://github.com/ellen25719/IMLP343/blob/main/Unit03/5_Prepocessing.ipynb
-  * 06 - 
-*
-*
+  * 06 - https://github.com/ellen25719/IMLP343/blob/main/Unit03/6_scikit_learn_Basic.ipynb
+* Unit 4:
+  * 01 -
+  * 02 -
+  * 03 -
+  * 04 -
+* Unit 5:
+  * 01 -
 *
 
 
