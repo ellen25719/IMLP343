@@ -13,12 +13,12 @@
   * 05 - https://github.com/ellen25719/IMLP343/blob/main/Unit03/5_Prepocessing.ipynb
   * 06 - https://github.com/ellen25719/IMLP343/blob/main/Unit03/6_scikit_learn_Basic.ipynb
 * Unit 4:
+  * https://github.com/ellen25719/IMLP343/blob/main/Unit04/Linear_Regression_HW.ipynb
+* Unit 5:
   * 01 -
   * 02 -
   * 03 -
   * 04 -
-* Unit 5:
-  * 01 -
 *
 
 
