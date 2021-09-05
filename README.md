@@ -24,10 +24,10 @@
 
 [HW 5]
 * Unit 5:
-  * 02 - https://github.com/ellen25719/IMLP343/blob/main/Unit05/02_Logistic%20regression_%E5%AF%A6%E6%88%B0.ipynb
+  * https://github.com/ellen25719/IMLP343/blob/main/Unit05/02_Logistic_regression_HW.ipynb
 * Unit 5-2:
-  * 03 -
-  * 04 -
+  * 
+  * 
 
 [HW 6]
 *
