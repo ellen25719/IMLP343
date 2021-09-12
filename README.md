@@ -39,6 +39,6 @@
 * Unit 7:
   * 7.4 - https://github.com/ellen25719/IMLP343/blob/main/Unit07/7.4_Kmeans_Image_segmentation_HW.ipynb
 * Unit 8:
-  * 8.3 - 
+  * 8.3 - https://github.com/ellen25719/IMLP343/blob/main/Unit08/8.3_PCA_Face_Recognition.ipynb
 
 
