@@ -30,7 +30,9 @@
   * 
 
 [HW 6]
-*
+* 1-3 -
+* 2-3 - https://github.com/ellen25719/IMLP343/blob/main/Unit06/2.3_Ensemble_HW.ipynb
+* Figure (Kaggle) - https://github.com/ellen25719/IMLP343/blob/main/Unit06/Kaggle_score.png
 
 
 [HW 7]
