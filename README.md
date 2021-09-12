@@ -30,13 +30,15 @@
   * 
 
 [HW 6]
-* 1-3 - https://github.com/ellen25719/IMLP343/blob/main/Unit06/1.3_ConfusionMatrix_HW.ipynb
-* 2-3 - https://github.com/ellen25719/IMLP343/blob/main/Unit06/2.3_Ensemble_HW.ipynb
+* 1.3 - https://github.com/ellen25719/IMLP343/blob/main/Unit06/1.3_ConfusionMatrix_HW.ipynb
+* 2.3 - https://github.com/ellen25719/IMLP343/blob/main/Unit06/2.3_Ensemble_HW.ipynb
 * Figure (Kaggle) - https://github.com/ellen25719/IMLP343/blob/main/Unit06/Kaggle_score.png
 
 
 [HW 7]
-*
-
+* Unit 7:
+  * 7.4 - https://github.com/ellen25719/IMLP343/blob/main/Unit07/7.4_Kmeans_Image_segmentation_HW.ipynb
+* Unit 8:
+  * 8.3 - 
 
 
